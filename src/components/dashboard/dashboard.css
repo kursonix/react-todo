@@ -1,0 +1,10 @@
+.content {
+    display: flex;
+    position: absolute;
+    left: 0vw;
+    transition: left 0.3s ease-in-out;
+}
+
+.content.open {
+    left: 15vw;
+}
