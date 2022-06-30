@@ -1,0 +1,9 @@
+.mainAction {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.mainAction__icon {
+    margin-left: 10px;
+}

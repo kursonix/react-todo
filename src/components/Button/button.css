@@ -1,0 +1,20 @@
+.button {
+    all: unset;
+    display: flex;
+    flex-direction: 'row';
+    font-size: larger;
+    align-items: center;
+    padding: 15px;
+    cursor: pointer;
+    border-radius: 10px;
+    font-family: 'Roboto';
+}
+
+.button:hover {
+    background-color: #7d817d;
+    color: white;
+}
+
+.button__icon {
+    margin-right: 10px;
+}
